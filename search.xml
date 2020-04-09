@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>事件委托</title>
+      <link href="/2020/04/09/%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98/"/>
+      <url>/2020/04/09/%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98/</url>
+      
+        <content type="html"><![CDATA[<h2 id="基本概念"><a href="#基本概念" class="headerlink" title="基本概念"></a>基本概念</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> js技术学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 前端进阶 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>闭包</title>
       <link href="/2020/04/07/%E9%97%AD%E5%8C%85/"/>
       <url>/2020/04/07/%E9%97%AD%E5%8C%85/</url>
@@ -13,7 +38,7 @@
       
       <categories>
           
-          <category> 技术学习 </category>
+          <category> js技术学习 </category>
           
       </categories>
       
@@ -38,7 +63,7 @@
       
       <categories>
           
-          <category> 技术学习 </category>
+          <category> js技术学习 </category>
           
       </categories>
       
